@@ -8,7 +8,7 @@ Ceci n’est pas un sandbox.
 
 * Category: pwn
 * Difficulty: medium
-* Points: TODO
+* Points: 263 points (29 solves)
 * Author: `hlt`
 
 Given files: `audited.py`, `ynetd`, `Dockerfile`
